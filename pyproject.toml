@@ -1,0 +1,10 @@
+[project]
+name = "aosr"
+version = "0.1.0"
+description = "Temporary empty repo"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=2.3",
+    "torch>=2.4",
+]
